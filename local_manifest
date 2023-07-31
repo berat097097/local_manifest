@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="https://github.com/Simon1511/android_device_samsung_sm7325-common
+ <project path="https://github.com/Simon1511/android_vendor_samsung_sm7325-common
+ <project path="https://github.com/Simon1511/android_kernel_samsung_sm7325
+ 
+</manifest>
